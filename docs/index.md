@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Welcome to my recipe repo
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+You are free to copy these recipes. They are a mix of recipes I have collected from my mother's old recipe books, my experiments and changes I have made to various recipes I have found from a variety of sources. For now, there are only a couple of recipes here, but I will be adding more as I get a chance.
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

@@ -1,4 +1,5 @@
 site_name: Recipe collection
+site_url: https://github.io
 
 
 theme:
@@ -17,9 +18,16 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
+    - navigation.expand
     - search.suggest
 
 nav:
   - Home: index.md
   - Bread:
     - Focaccia: bread/focaccia.md
+
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable: true
