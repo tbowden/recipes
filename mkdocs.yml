@@ -1,0 +1,25 @@
+site_name: Recipe collection
+
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color scheme dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Bread:
+    - Focaccia: bread/focaccia.md
