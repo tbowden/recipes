@@ -1,7 +1,7 @@
 # Focaccia 
 
 This recipe can be warm or cold fermented depending on time constraints. The quantities suit a baking dish of about 20 X 30 cm. Near enough is good enough. All percentages are in baker's percentage.
-As this is a high hydration recipe it will produce a sticky dough, but with a bit of practice it can be worked with. Don't use extra flour to deal with the stickiness. Instead, lightly oiling your hands and/or bench. This makes it much easier to work with the dough.
+As this is a high hydration recipe it will produce a sticky dough, but with a bit of practice it can be worked with. Don't use extra flour to deal with the stickiness. Instead, lightly oiling your hands and/or bench.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ As this is a high hydration recipe it will produce a sticky dough, but with a bi
 
 * [ ] 20g olive oil
 
-For topping on the tray
+For toppings on the tray before baking:
 
 * [ ] 30 - 50g olive oil
 
@@ -36,7 +36,7 @@ For topping on the tray
 
 * [ ] Initial mix of flour and water till combined (mixer or by hand) then cover with an autolyse rest for 20 - 60 minutes (improves gluted development)
 
-* [ ] Mix in salt, yeast and oil until fully incorporated
+* [ ] Mix in salt & yeast for 3-4 minutes then oil until fully incorporated
 
 * [ ] Bulk fermentation - 2 - 4 hours (or more depending on ambient temperature - normal dough development characteristics should be observed rather than strict adherance to times). During the first 90 minutes, do a couple of stretch and folds every 20 - 30 minutes to develop gluten strength. You will feel the dough changing as you do this. With practice, you will feel the dough developing surface tension as you do your stretch and folds. In between, the gluten will get a chance to relax. You are developing structure without the heavy kneading that is normally done. The dough will become smoother, airier and more elastic during this process.
 
