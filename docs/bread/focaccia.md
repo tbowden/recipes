@@ -1,6 +1,6 @@
 # Focaccia 
 
-This recipe can be warm or cold fermented depending on time constraints. The quantities suit a baking dish of about 30 X 35 cm. Near enough is good enough. All percentages are in baker's percentage.
+This recipe can be warm or cold fermented depending on time constraints. The quantities suit a baking dish of about 20 X 30 cm. Near enough is good enough. All percentages are in baker's percentage.
 As this is a high hydration recipe it will produce a sticky dough, but with a bit of practice it can be worked with. Don't use extra flour to deal with the stickiness. Instead, lightly oiling your hands and/or bench. This makes it much easier to work with the dough.
 
 ## Ingredients
